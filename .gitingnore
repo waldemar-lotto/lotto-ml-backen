@@ -1,0 +1,12 @@
+# Środowiska Pythona
+venv/
+__pycache__/
+*.pyc
+
+# VS Code / edytory
+.vscode/
+*.swp
+
+# Systemowe
+.DS_Store
+Thumbs.db
